@@ -1,0 +1,2 @@
+# jQueryClass
+lightweightClass for jQuery
