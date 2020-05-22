@@ -1,0 +1,14 @@
+{
+  "name": "jQueryClass",
+  "version": "1.1.0",
+  "description": "Customer Action Tool",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HobbyFrosch/jqueryclass.git"
+  },
+  "author": "Ronny Krämer",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1",
+  }
+}
